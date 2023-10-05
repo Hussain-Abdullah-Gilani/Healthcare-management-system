@@ -8,6 +8,10 @@
 Welcome to the E-MEDIC: Hospital/Clinic Management System, a state-of-the-art desktop application built using cutting-edge technologies. Our mission is to streamline and modernize hospital and clinic management with a user-friendly and feature-rich experience.
 Made by me & 3 other friends as a semester project.
 
+
+<div style="text-align:center"><img src="/DEMO/splash.PNG" /></div>.
+
+
 ## 🚀 Key Features
 
 ### For Users:
