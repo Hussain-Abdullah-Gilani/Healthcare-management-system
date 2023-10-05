@@ -79,6 +79,6 @@ We value your feedback and welcome contributions to enhance this system. If you 
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache-2.0 license](LICENSE).
 
 We invite you to contribute, report issues, or suggest improvements. Your feedback plays a pivotal role in making the Hospital/Clinic Management System even more efficient and user-friendly.
