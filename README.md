@@ -47,19 +47,19 @@ Make sure to have the required dependencies installed and set up a Microsoft SQL
 
 ## 📸 Screenshots
 
-![Dashboard](/screenshots/dashboard.PNG)
+![Dashboard](/DEMO/dashboard.PNG)
 *Dashboard*
 
-![Appointments](/screenshots/appointment.PNG)
+![Appointments](/DEMO/appointment.PNG)
 *Appointment Management*
 
-![Portal](/screenshots/portal.PNG)
+![Portal](/DEMO/portal.PNG)
 *Sign-Up/Login Portal*
 
-![Reports](/screenshots/reports.PNG)
+![Reports](/DEMO/reports.PNG)
 *Reports Tab*
 
-![PDF](/screenshots/pdf.PNG)
+![PDF](/DEMO/pdf.PNG)
 *PDF Generator*
 
 
