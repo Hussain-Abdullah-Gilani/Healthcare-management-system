@@ -9,7 +9,7 @@ Welcome to the E-MEDIC: Hospital/Clinic Management System, a state-of-the-art de
 Made by me & 3 other friends as a semester project.
 
 
-<p align="center" width="100%">
+<p align="center" width="200%">
     <img width="75%" src="/DEMO/splash.png">
 </p>
 
