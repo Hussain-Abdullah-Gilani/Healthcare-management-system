@@ -69,7 +69,7 @@ Make sure to have the required dependencies installed and set up a Microsoft SQL
 
 ## 💬 Feedback and Contribution
 
-We value your feedback and welcome contributions to enhance this system. If you have ideas, suggestions, or if you encounter any issues, please feel free to [open an issue](https://github.com/your-username/your-repo/issues) or [create a pull request](https://github.com/hussain-abdullah-gilani/HealthDeskManager/pulls). Your input is instrumental in shaping the future of this application.
+We value your feedback and welcome contributions to enhance this system. If you have ideas, suggestions, or if you encounter any issues, please feel free to [open an issue](https://github.com/hussain-abdullah-gilani/E-Medic/issues) or [create a pull request](https://github.com/hussain-abdullah-gilani/E-Medic/pulls). Your input is instrumental in shaping the future of this application.
 
 ## 📝 License
 
