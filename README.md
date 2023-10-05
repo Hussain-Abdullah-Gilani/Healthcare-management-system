@@ -10,7 +10,7 @@ Made by me & 3 other friends as a semester project.
 
 
 <p align="center" width="100%">
-    <img width="33%" src="/DEMO/splash.png">
+    <img width="75%" src="/DEMO/splash.png">
 </p>
 
 
