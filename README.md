@@ -73,9 +73,12 @@ Make sure to have the required dependencies installed and set up a Microsoft SQL
 ![PDF](/DEMO/pdf.PNG)
 *PDF Generator*
 
+## Members
+![Abdullah Qasim](https://github.com/abdullahqasim0)
+
 ## 💬 Feedback and Contribution
 
-We value your feedback and welcome contributions to enhance this system. If you have ideas, suggestions, or if you encounter any issues, please feel free to [open an issue](https://github.com/hussain-abdullah-gilani/E-Medic/issues) or [create a pull request](https://github.com/hussain-abdullah-gilani/E-Medic/pulls). Your input is instrumental in shaping the future of this application.
+We value your feedback and welcome contributions to enhance this system. If you have ideas, suggestions, or if you encounter any issues, please feel free to [open an issue](https://github.com/hussain-abdullah-gilani/Healthcare-management-system/issues) or [create a pull request](https://github.com/hussain-abdullah-gilani/Healthcare-management-system/pulls). Your input is instrumental in shaping the future of this application.
 
 ## 📝 License
 
