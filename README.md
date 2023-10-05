@@ -1,4 +1,9 @@
 # 🏥 E-MEDIC: A Hospital/Clinic Management System
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=flat)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 
 Welcome to the E-MEDIC: Hospital/Clinic Management System, a state-of-the-art desktop application built using cutting-edge technologies. Our mission is to streamline and modernize hospital and clinic management with a user-friendly and feature-rich experience.
 Made by me & 3 other friends as a semester project.
@@ -62,6 +67,9 @@ Make sure to have the required dependencies installed and set up a Microsoft SQL
 ![PDF](/DEMO/pdf.PNG)
 *PDF Generator*
 
+## 💬 Feedback and Contribution
+
+We value your feedback and welcome contributions to enhance this system. If you have ideas, suggestions, or if you encounter any issues, please feel free to [open an issue](https://github.com/your-username/your-repo/issues) or [create a pull request](https://github.com/hussain-abdullah-gilani/HealthDeskManager/pulls). Your input is instrumental in shaping the future of this application.
 
 ## 📝 License
 
